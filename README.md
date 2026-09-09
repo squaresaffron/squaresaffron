@@ -36,7 +36,7 @@ I'm a software engineer with **6+ years of experience** building games and appli
 | :--- | :--- |
 | 🎮 Game development | Unity Engine, C#, gameplay systems, UI, progression systems, prototyping |
 | 🏗️ Software design | Object-oriented programming, design patterns, data structures, modular architecture |
-| 🌐 Connected games | Firebase, Firebase Remote Config, Photon PUN 2, multiplayer functionality |
+| 🔧 Plugins | Firebase, Admob, Ironsource |
 | 🚀 Production & live operations | Performance optimization, debugging, ad integration, monetization, localization |
 | 🤝 Development workflow | Git, AI-assisted development, team leadership, cross-functional collaboration |
 

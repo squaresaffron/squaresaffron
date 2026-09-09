@@ -6,8 +6,6 @@
 
 Building games with clean code, reusable systems, and smooth performance.
 
-<img src="https://skillicons.dev/icons?i=unity,cs,firebase,git&theme=dark" alt="Unity, C#, Firebase, and Git" />
-
 <br />
 <br />
 

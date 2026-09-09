@@ -38,7 +38,7 @@ I'm a software engineer with **6+ years of experience** building games and appli
 | :--- | :--- |
 | 🎮 Game development | Unity Engine, C#, gameplay systems, UI, progression systems, prototyping |
 | 🏗️ Software design | Object-oriented programming, design patterns, data structures, modular architecture |
-| 🌐 Connected games | Firebase, Firebase Remote Config |
+| 🌐 Connected games | Firebase, Firebase Remote Config, Photon PUN 2, multiplayer functionality |
 | 🚀 Production & live operations | Performance optimization, debugging, ad integration, monetization, localization |
 | 🤝 Development workflow | Git, AI-assisted development, team leadership, cross-functional collaboration |
 
@@ -90,31 +90,6 @@ A casino slot game series featuring dual themes and pachinko-style bonus mechani
 
 <!-- Add future projects here using the same structure: title, description,
      your specific contributions, and a store, playable demo, or video link. -->
-
-## 💼 Experience
-
-| Role | Company | Period |
-| :--- | :--- | :--- |
-| Senior Software Engineer I (Unity) | Everi India Pvt Ltd | Sep 2025 – Jul 2026 |
-| Senior Game Developer | Flyingcaps Technologies | Aug 2021 – Sep 2025 |
-| Game Developer | Gamesfort Studios | Aug 2020 – Jul 2021 |
-| Game Developer | DigiDesk Games | Sep 2019 – Jul 2020 |
-
-<details>
-<summary><b>⚡ A few career highlights</b></summary>
-
-- Delivered two production-ready projects on schedule after learning proprietary frameworks at Everi.
-- Built gameplay, progression, monetization, and Firebase Remote Config features across mobile and web games at Flyingcaps Technologies.
-- Resolved post-launch performance bottlenecks and a critical monetization issue using Firebase and analytics.
-- Published two mobile games on Google Play at Gamesfort Studios and implemented multiplayer functionality with Photon PUN 2 for an obstacle game.
-- Progressed from a three-month internship into a full-time developer role at DigiDesk Games.
-
-</details>
-
-## 🎓 Education
-
-**B.Tech. in Computer Science and Game Development**  
-Backstage Pass Institute of Gaming and Technology
 
 ---
 

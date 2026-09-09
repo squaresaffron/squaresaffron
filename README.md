@@ -14,8 +14,6 @@ Building games with clean code, reusable systems, and smooth performance.
 [![Email](https://img.shields.io/badge/Let's_connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujithashwink@gmail.com)
 [![Explore my work](https://img.shields.io/badge/Explore_my_work-7C3AED?style=for-the-badge&logo=unity&logoColor=white)](#-projects-beyond-github)
 
-📍 Hyderabad, India · Open to relocation
-
 </div>
 
 ---
@@ -40,7 +38,7 @@ I'm a software engineer with **6+ years of experience** building games and appli
 | :--- | :--- |
 | 🎮 Game development | Unity Engine, C#, gameplay systems, UI, progression systems, prototyping |
 | 🏗️ Software design | Object-oriented programming, design patterns, data structures, modular architecture |
-| 🌐 Connected games | Firebase, Firebase Remote Config, Photon PUN 2, multiplayer functionality |
+| 🌐 Connected games | Firebase, Firebase Remote Config |
 | 🚀 Production & live operations | Performance optimization, debugging, ad integration, monetization, localization |
 | 🤝 Development workflow | Git, AI-assisted development, team leadership, cross-functional collaboration |
 

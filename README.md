@@ -9,6 +9,7 @@ Building games with clean code, reusable systems, and smooth performance.
 <br />
 <br />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujith-aswin-830376134)
 [![Email](https://img.shields.io/badge/Let's_connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujithashwink@gmail.com)
 [![Explore my work](https://img.shields.io/badge/Explore_my_work-7C3AED?style=for-the-badge&logo=unity&logoColor=white)](#-projects-beyond-github)
 

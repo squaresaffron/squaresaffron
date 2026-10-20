@@ -53,7 +53,9 @@ A selection of published games I've contributed to, with links to their store or
 
 ### 🔩 Screw Genius 3D
 
-![Screw Genius 3D](Assets/game_icons/com.screw.sort.nuts.bolts.jam.screwpuzzle.png)
+<img src = "Assets/game_icons/com.screw.sort.nuts.bolts.jam.screwpuzzle.png"
+     alt = "Screw Genius 3D
+     width = 100 >
 
 A logic puzzle game where players strategically remove and sort screws to solve increasingly challenging puzzles.
 

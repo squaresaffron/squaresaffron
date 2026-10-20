@@ -53,7 +53,7 @@ A selection of published games I've contributed to, with links to their store or
 
 ### 🔩 Screw Genius 3D
 
-![Screw Genius 3D](assets/game_icons/com.screw.sort.nuts.bolts.jam.screwpuzzle.png)
+![Screw Genius 3D](Assets/game_icons/com.screw.sort.nuts.bolts.jam.screwpuzzle.png)
 
 A logic puzzle game where players strategically remove and sort screws to solve increasingly challenging puzzles.
 
@@ -67,7 +67,7 @@ A logic puzzle game where players strategically remove and sort screws to solve 
 
 ### 🐍 Slink IO 2
 
-![Slink IO 2](assets/game_icons/com.apps2us.slither.slink.io2.png)
+![Slink IO 2](Assets/game_icons/com.apps2us.slither.slink.io2.png)
 
 A snake battle game featuring competitive .io gameplay, multiple game modes, and customizable progression.
 

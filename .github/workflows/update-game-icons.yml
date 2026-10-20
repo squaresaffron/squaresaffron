@@ -9,7 +9,7 @@ on:
 
   push:
     branches:
-      - feature/automatedGameIcons
+      - main
     paths:
       - "Scripts/**"
       - "games.json"

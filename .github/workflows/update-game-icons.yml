@@ -4,6 +4,9 @@ name: Update game icons
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "0 3 1 * *"
+
   push:
     branches:
       - feature/automatedGameIcons

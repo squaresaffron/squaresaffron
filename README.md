@@ -52,6 +52,10 @@ A selection of published games I've contributed to, with links to their store or
 
 ### 🔩 Screw Genius 3D
 
+<img src="Assets/game_icons/com.screw.sort.nuts.bolts.jam.screwpuzzle.png"
+  alt="Screw Genius 3D"
+  width="100">
+
 A logic puzzle game where players strategically remove and sort screws to solve increasingly challenging puzzles.
 
 **My contributions:** Gameplay mechanics, level design, and performance optimization.
@@ -63,6 +67,10 @@ A logic puzzle game where players strategically remove and sort screws to solve 
 ---
 
 ### 🐍 Slink IO 2
+
+<img src="Assets/game_icons/com.apps2us.slither.slink.io2.png"
+     alt="Slink IO 2"
+     width = "100"> 
 
 A snake battle game featuring competitive .io gameplay, multiple game modes, and customizable progression.
 

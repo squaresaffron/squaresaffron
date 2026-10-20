@@ -1,4 +1,5 @@
 import json
+import sys
 from io import BytesIO
 from pathlib import Path
 from google_play_scraper import app
@@ -13,12 +14,15 @@ print(Root, " this is root")
 #loading game configuration 
 #"/" isnt division, its pathlib.path class, joins two path components together
 CONFIG_PATH = Root / "games.json"
-ICON_DIR = Root / "assets" / "game_icons"
+ICON_DIR = Root / "Assets" / "game_icons"
 
-#ICON_DIR.mkdir(parents=True, exist_ok= True)
+ICON_DIR.mkdir(parents=True, exist_ok= True)
 
 with CONFIG_PATH.open("r", encoding="utf-8") as file:
     games = json.load(file)
+
+success_Count = 0
+failed_Games = []
 
 #fetching each game's metadata
 for game in games:
@@ -45,12 +49,26 @@ for game in games:
             png_image = image.convert("RGBA")
             png_image.save(temp_Path, format="PNG")
 
-            #replace existing icon only after new one is ready
-            temp_Path.replace(icon_Path)
-
-
-
+            #replace existing icon only after new one is ready and its content is unchanged
+            if icon_Path.exists() and temp_Path.read_bytes() == icon_Path.read_bytes():
+                print(f"No Changes: {game_Name}")
+                temp_Path.unlink()
+            else:
+                temp_Path.replace(icon_Path)
+        
+            success_Count += 1
 
     except Exception as error:
+        failed_Games.append(game_Name)
         print (f"Failed to update {game_Name}: {error}")
+
+    finally:
+        #remove temporary files after outcome
+        if temp_Path.exists():
+            temp_Path.unlink()
+
+    # A non zero exit code will tell automation that something failed
+    if failed_Games:
+        print("Failed games:", ", ".join(failed_Games))
+        sys.exit(1)
     

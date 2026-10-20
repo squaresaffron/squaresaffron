@@ -69,7 +69,9 @@ A logic puzzle game where players strategically remove and sort screws to solve 
 
 ### 🐍 Slink IO 2
 
-![Slink IO 2](Assets/game_icons/com.apps2us.slither.slink.io2.png)
+<img src="Assets/game_icons/com.apps2us.slither.slink.io2.png"
+     alt="Slink IO 2"
+     width = "100"> 
 
 A snake battle game featuring competitive .io gameplay, multiple game modes, and customizable progression.
 
